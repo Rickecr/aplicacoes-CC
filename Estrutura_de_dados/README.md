@@ -6,12 +6,12 @@
   - Bubble sort
   - Insertion sort
   - Selection sort
-  - Quick sort
-  - Merge sort
+  - Quick sort [java](algoritmos_ordenacao/QuickSort.java)
+  - Merge sort [java](algoritmos_ordenacao/MergeSort.java)
   - Counting sort
   - Bucket sort
   - Radix sort
-  
+
 - TAD:
   - Pilha
   - Fila
@@ -27,7 +27,7 @@
   - AVL
   - Heap
   - PV
-  
+
 - Skip list
 
 - Algoritmos com ordem estatística:
